@@ -24,4 +24,4 @@ The structure of the dataset, the code (as well as some of the results and expla
 
 **_MySQL is used for this project instead of PostgreSQL._**
 
-_(Data Source: Advanced SQL for Business Intelligence in Udemy)_
+_(Data Source: Advanced SQL: MySQL Data Analysis & Business Intelligence in Udemy)_
